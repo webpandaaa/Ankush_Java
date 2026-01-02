@@ -1,0 +1,59 @@
+JAVA ARRAY INTERVIEW QUESTIONS (EASY TO HARD)
+
+==============================
+EASY LEVEL (BASICS)
+
+What is an array in Java?
+How do you declare and initialize an array in Java?
+What is the default value of an array in Java?
+What is the difference between int[] arr and int arr[]?
+How do you find the length of an array?
+What happens if you access an invalid index of an array?
+Can the size of an array be changed after declaration?
+What is the difference between Array and ArrayList?
+Write a program to print all elements of an array.
+Write a program to find the sum of elements in an array.
+Write a program to find the largest element in an array.
+Write a program to find the smallest element in an array.
+Write a program to count even and odd numbers in an array.
+Write a program to copy one array into another array.
+Write a program to reverse an array.
+
+==============================
+MEDIUM LEVEL (LOGIC BUILDING)
+
+Write a program to find the second largest element in an array.
+Write a program to find duplicate elements in an array.
+Write a program to remove duplicate elements from an array.
+Write a program to sort an array without using built-in methods.
+Write a program to find a missing number in an array.
+Write a program to check whether an array is sorted or not.
+Write a program to rotate an array to the left.
+Write a program to rotate an array to the right.
+Write a program to merge two arrays.
+Write a program to find the frequency of each element in an array.
+Write a program to find common elements between two arrays.
+Write a program to find the intersection of two arrays.
+Write a program to move all zeros to the end of an array.
+Write a program to find pairs whose sum is equal to a given number.
+Write a program to find maximum and minimum elements using a single loop.
+
+==============================
+HARD LEVEL (ADVANCED)
+
+Write a program to find leaders in an array.
+Write a program to implement Kadane’s Algorithm.
+Write a program to find the longest consecutive sequence in an array.
+Write a program to find the equilibrium index of an array.
+Write a program to find the majority element in an array.
+Write a program to find all subarrays with a given sum.
+Write a program to solve the Trapping Rain Water problem.
+Write a program for the Stock Buy and Sell problem.
+Write a program to find the smallest subarray with sum greater than a given value.
+Write a program to rearrange array elements in alternating positive and negative numbers.
+Write a program to find the kth largest and kth smallest element in an array.
+Write a program to find duplicate elements without using extra space.
+Write a program to find the missing and repeating numbers in an array.
+Write a program to rotate a 2D matrix.
+Write a program to search an element in a rotated sorted array.
+Write a program to perform spiral traversal of a 2D array.
