@@ -1,0 +1,76 @@
+JAVA STRING INTERVIEW QUESTIONS (EASY TO HARD)
+
+==============================
+
+EASY LEVEL (BASICS)
+
+What is a String in Java?
+How is String different from a character array?
+How do you create a String in Java?
+What is the difference between String literal and new String()?
+Why are Strings immutable in Java?
+What is the String constant pool?
+How do you find the length of a String?
+How do you access a character from a String?
+What is the difference between equals() and == in String?
+What is equalsIgnoreCase()?
+What is the use of charAt() method?
+What is the default value of a String variable?
+Can a String be null in Java?
+What happens when you try to modify a String?
+Write a program to print a String.
+Write a program to find the length of a String.
+Write a program to convert a String to uppercase and lowercase.
+Write a program to compare two Strings.
+Write a program to concatenate two Strings.
+Write a program to print each character of a String.
+
+==============================
+
+MEDIUM LEVEL (LOGIC BUILDING)
+
+Write a program to reverse a String.
+Write a program to check whether a String is a palindrome.
+Write a program to count vowels and consonants in a String.
+Write a program to count the number of words in a String.
+Write a program to count the frequency of each character in a String.
+Write a program to find duplicate characters in a String.
+Write a program to remove duplicate characters from a String.
+Write a program to find the first non-repeating character in a String.
+Write a program to check whether two Strings are anagrams.
+Write a program to remove all spaces from a String.
+Write a program to replace a character in a String.
+Write a program to check whether a String contains only digits.
+Write a program to count uppercase and lowercase letters in a String.
+Write a program to find the longest word in a String.
+Write a program to split a String into words.
+Write a program to reverse each word in a String.
+Write a program to find the index of a character in a String.
+Write a program to check if a String starts with or ends with a given character.
+Write a program to toggle the case of characters in a String.
+Write a program to remove special characters from a String.
+
+==============================
+
+HARD LEVEL (ADVANCED)
+
+Write a program to find the longest substring without repeating characters.
+Write a program to find all permutations of a String.
+Write a program to check whether a String is a rotation of another String.
+Write a program to perform String compression (aabbbcc → a2b3c2).
+Write a program to find the longest palindromic substring.
+Write a program to find the smallest window containing all characters of another String.
+Write a program to find all anagram substrings in a String.
+Write a program to count substrings with equal number of vowels and consonants.
+Write a program to remove adjacent duplicate characters in a String.
+Write a program to sort characters in a String.
+Write a program to find the lexicographically smallest and largest substring.
+Write a program to check String pattern matching.
+Write a program to implement String matching without using built-in methods.
+Write a program to validate a password using String rules.
+Write a program to parse and evaluate a mathematical expression from a String.
+Write a program to convert a String to Integer without using Integer.parseInt().
+Write a program to find repeated words in a String.
+Write a program to encode and decode a String.
+Write a program to implement substring search (Naive / KMP concept).
+Write a program to check if a String follows a given pattern.
