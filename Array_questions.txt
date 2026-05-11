@@ -14,7 +14,7 @@ What is the difference between Array and ArrayList?
 Write a program to print all elements of an array.
 Write a program to find the sum of elements in an array.
 Write a program to find the largest element in an array.
-Write a program to find the smallest element in an array.
+Write a program to find the smallest element in an array. 
 Write a program to count even and odd numbers in an array.
 Write a program to copy one array into another array.
 Write a program to reverse an array.
